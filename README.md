@@ -1,4 +1,4 @@
-# Practica_EinesGoogle_MaxiEscribanoBosch_DiegoDavidPerezConde
+# Practica_HTML/CSS_MaxiEscribanoBosch_DiegoDavidPerezConde
 
 [Lenguaje HTML y CSS - Diego David Pérez y Maxi Escribano.pdf](https://github.com/user-attachments/files/22850061/Lenguaje.HTML.y.CSS.-.Diego.David.Perez.y.Maxi.Escribano.pdf)
 
